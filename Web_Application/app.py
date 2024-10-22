@@ -1,8 +1,8 @@
 '''
     Made by:
-        Gourav Rout
-        gouravrout.work@gmail.com
-        1/30/2024  9:04pm
+        Sushobhan Nayak
+        sushobhanayak@gmail.com
+        22/10/2024  8:45pm
 '''
 
 # Import all python modules to create a web page for the recommendation system
